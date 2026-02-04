@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,7 +116,7 @@
   <section id="inspiration" class="max-w-4xl mx-auto px-6 py-20 text-center">
     <h3 class="text-3xl font-bold text-indigo-400 mb-6">Our Inspiration</h3>
     <div class="glass p-8 rounded-xl">
-      <img src="R.B. JADEJA.jpg" alt="Rajendrasinh Jadeja" class="w-32 h-32 mx-auto rounded-full border-4 border-indigo-400 mb-4 object-cover">
+      <img src="R.B. JADEJA.png" alt="Rajendrasinh Jadeja" class="w-32 h-32 mx-auto rounded-full border-4 border-indigo-400 mb-4 object-cover">
       <h4 class="text-2xl font-semibold text-indigo-300">Rajendrasinh Jadeja</h4>
       <p class="text-gray-400 italic mb-4">The guiding light behind Nexora</p>
       <p class="text-gray-300 text-base max-w-2xl mx-auto leading-relaxed">
